@@ -1,0 +1,9 @@
+[submodule "kwb.pathdict"]
+	path = kwb.pathdict
+	url = https://github.com/KWB-R/kwb.pathdict
+        shallow = true
+[submodule "fakin.path.app"]
+	path = fakin.path.app
+	url = https://github.com/KWB-R/fakin.path.app
+        shallow = true
+
